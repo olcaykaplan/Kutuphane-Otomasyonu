@@ -37,7 +37,7 @@ namespace _KutuphaneOtomasyonu
 
         private void _KitapAra_Load(object sender, EventArgs e)
         {
-
+            // ddddd
         }
 
         private void btnKitapAra_Click(object sender, EventArgs e)
